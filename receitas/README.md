@@ -1,5 +1,7 @@
 ## LIVRO DE RECEITAS
 
-- [ ] bundinha
-- [ ] peitin
-- [ ] bucetinha
+- [x] bundinha
+- [x] peitin
+- [x] bucetinha  
+- [ ] 
+- [x] todas
