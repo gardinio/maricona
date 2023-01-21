@@ -1,7 +1,7 @@
 ## LIVRO DE RECEITAS
 
-- [x] bundinha
-- [x] peitin
-- [x] bucetinha  
-- [ ] 
+- [x] banana
+- [x] uva
+- [x] morango  
+- [ ] pêra
 - [x] todas
